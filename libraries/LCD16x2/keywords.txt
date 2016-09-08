@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map LCD16x2
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCD16x2 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getID   KEYWORD2
+getFirmwareVersion  KEYWORD2
+uartEnable  KEYWORD2
+pinMode KEYWORD2
+digitalWrite    KEYWORD2
+digitalRead KEYWORD2
+readButtons KEYWORD2
+lcdClear    KEYWORD2
+lcdGoToXY   KEYWORD2
+lcdWrite    KEYWORD2
+lcdSetBlacklight KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+GPIO1   LITERAL1
+GPIO2   LITERAL1
+GPIO3   LITERAL1
+GPIO4   LITERAL1
+GPIO5   LITERAL1
+GPIO6   LITERAL1
+GPIO7   LITERAL1
+GPIO8   LITERAL1
+GPIO9   LITERAL1
